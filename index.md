@@ -1,9 +1,13 @@
-#ANTWAN STEELE
-Sports Analytics/Data Science Student  
-UNC Charlotte
-#I have one sister, two beloved parents and I'm from Winston Salem. I want to use Data Science within sports.
+Hi my name is Antwan Steele Jr.
+I am a Double major in Sports Analytics & Communications with a minor in Data Science.  
+I attend UNC Charlotte as a current third-year student.
+I'm from Winston Salem. I want to use Data Science within sports.
 Welcome to my Data Science Studio portfolio.
 This website will document my learning and projects throughout the semester.
 ## Portfolio
 - [Blog](blog.md)
 - [Projects](projects.md)
+## My Info
+- Email: twansteelejr@gmail.com
+- Github: [asteel28-wq](https://github.com/asteel28-wq)
+- LinkedIn: [antwan-steele-jr-04955a351](www.linkedin.com/in/antwan-steele-jr-04955a351)
