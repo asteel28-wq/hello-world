@@ -1,3 +1,4 @@
+## About Me
 Hi my name is Antwan Steele Jr.
 I am a Double major in Sports Analytics & Communications with a minor in Data Science.  
 I attend UNC Charlotte as a current third-year student.
